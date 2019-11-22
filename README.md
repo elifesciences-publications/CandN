@@ -2,6 +2,8 @@
 
 ## The project contains files for Dubinkina, V., Fridman, Y., Pandey, P., & Maslov, S. (2018). Alternative stable states in a model of microbial community limited by multiple essential nutrients. bioRxiv, [439547](https://doi.org/10.1101/439547). ##
 
+### Related to Dubinkina V et al., 2019, 'Multistability and regime shifts in microbial communities explained by competition for essential nutrients'. eLife. https://doi.org/10.7554/eLife.49720
+
 Contents of the folder:
 
 - __Dynamic_Stability_L2/__ - contains code which performs dynamic perturbation analysis for 2Cx2Nx4S model
